@@ -10,7 +10,7 @@ A list of books that I am currently reading in 2023. Feel free to ask me about t
 [CPython Internals: Your Guide to the Python 3 Interpreter](https://www.amazon.com/CPython-Internals-Guide-Python-Interpreter-ebook/dp/B0BCNSDSYP)
 
 ## March 2023
-- [Going through DDIA book through a book club at the Recurse Center.](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321/)
+- [Going through the DDIA book for the 4th time](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321/)
 
 
 ## May 2023
