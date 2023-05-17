@@ -18,3 +18,4 @@ A list of books that I am currently reading in 2023.
 ## May 2023
 
 - https://www.amazon.com/Thinking-Systems-Donella-H-Meadows/dp/1603580557
+- https://www.amazon.com/Philosophy-Software-Design-2nd/dp/173210221X/
