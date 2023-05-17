@@ -12,6 +12,8 @@ A list of books that I am currently reading in 2023. Feel free to ask me about t
 ## March 2023
 - [Going through the DDIA book for the 4th time](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321/)
 
+## April 2023
+- https://www.amazon.com/Become-Awesome-Software-Architect-Foundation/dp/1697271065 
 
 ## May 2023
 I completed the above books (audiobooks ftw), it took me longer than I realized. On to a new list. 
