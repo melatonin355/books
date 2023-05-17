@@ -1,5 +1,5 @@
 # 2023 
-A list of books that I am currently reading in 2023. Feel free to ask me about them! I enjoy science-fiction, non-fiction, and all sort of tech adjecent books. 
+A list of books that I am currently reading in 2023. 
 
 
 ## Feb 2023
